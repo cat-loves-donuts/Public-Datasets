@@ -32,7 +32,8 @@ https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
 ### Snacks
 https://rpc-dataset.github.io/
 
-
+### Fruit
+https://github.com/ustc-vim/vegfru
 
 
 
