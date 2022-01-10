@@ -17,6 +17,9 @@ https://cseweb.ucsd.edu//~jmcauley/datasets.html
 ## CV related
 https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#retrieve
 
+### Cloths
+http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+
 
 
 
