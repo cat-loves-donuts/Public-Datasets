@@ -20,6 +20,20 @@ https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#retrieve
 ### Cloths
 http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 
+### Car
+https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
+### Flower
+https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+
+### Plane
+https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
+
+### Snacks
+https://rpc-dataset.github.io/
+
+
+
 
 
 
