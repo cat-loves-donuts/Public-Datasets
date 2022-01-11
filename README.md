@@ -36,6 +36,9 @@ https://rpc-dataset.github.io/
 ### Fruit
 https://github.com/ustc-vim/vegfru
 
+### Material and texture
+https://people.csail.mit.edu/lavanya/fmd.html
+https://ieee-dataport.org/keywords/texture-dataset
 
 
 
